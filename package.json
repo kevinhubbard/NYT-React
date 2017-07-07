@@ -27,12 +27,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/klee91/nytreact.git"
+    "url": "git+https://github.com/kevinhubbard/NYT-React.git"
   },
-  "author": "Kevin S. Lee",
+  "author": "Kevin H",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/klee91/nytreact/issues"
+    "url": "https://github.com/kevinhubbard/NYT-React"
   },
-  "homepage": "https://github.com/klee91/nytreact#readme"
+  "homepage": "https://github.com/kevinhubbard/NYT-React#readme"
 }
